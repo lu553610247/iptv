@@ -1,6 +1,7 @@
 🕘️更新时间,#genre#
-2026-02-15 21:00:46,url
+2026-02-15 21:10:08,http://lu.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=ystenlive
 
 📺央视频道,#genre#
+CCTV-17,http://lu.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=ystenlive
 
 📡卫视频道,#genre#
